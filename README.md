@@ -33,6 +33,9 @@
 <img width="300" height="200" alt="Screenshot 2025-10-01 005103" src="https://github.com/user-attachments/assets/52642819-8e2b-4a41-bbeb-3c4d6e9eeb35" />
 <img width="300" height="200" alt="Screenshot 2025-10-01 005146" src="https://github.com/user-attachments/assets/865dcc6f-8105-4a02-8176-6da0794e3a4d" />
 
+<img width="970" height="595" alt="Screenshot 2025-10-06 215134" src="https://github.com/user-attachments/assets/776c3139-d7e7-4b56-89ae-b1c79023a9b0" />
+
+
 
 </p>     
 
